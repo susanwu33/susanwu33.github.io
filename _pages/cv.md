@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in the Chinese University of Hong Kong
+# Education
 
-Work experience
+* B.Eng. in Artificial Intelligence: Systems and Technologies, the Chinese University of Hong Kong, 2020-2024
+
+# Scholarship
+
+* Undergraduate Admission Scholarship (2020)
+  * Awarded to top 1 student of its province admitted through National Entrance Examination (Gaokao)
+* Dean's List (2020-2021, 2021-2022)
+* ELITE Stream Scholarship (2020-2021, 2021-2022)
+
+Research Experience
 ======
-* Summer 2015: Research Assistant
+**Discover novel efficient mini-CRISPR for gene editing using deep learning and natural selection**
+<span style="float:right;">Jun. 2022 - Sep. 2022 </span>  
+*supervised by Prof. Yu Li*
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
